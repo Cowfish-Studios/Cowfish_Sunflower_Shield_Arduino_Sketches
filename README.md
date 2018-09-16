@@ -1,7 +1,7 @@
 Cowfish Studios Sunflower Shield
 ==============
 
-![Cowfish Studios Sunflower Shield](https://ksr-ugc.imgix.net/assets/021/216/097/3f487a54b21bda76ae2cfb1a08fabaa1_original.png?w=680&fit=max&v=1526234960&auto=format&lossless=true&s=aaa763f497a284bc976e4aac1c9f2cbe)
+![Cowfish Studios Sunflower Shield](https://www.cowfishstudios.com/uploads/2/8/6/1/28619761/cowfishkickstarter-banner01_orig.png)
 
 [*Cowfish Studios Sunflower Shield*](http://kck.st/2NdfVJ6)
 
@@ -15,7 +15,7 @@ Repository Contents
 Documentation
 --------------
 
-* **[Hookup Guide](Learn link off Cowfish Studios website, goes here.)** - Basic hookup guide for the Sunflower Shield.
+* **[Hookup Guide](https://www.cowfishstudios.com/learn1/sunflower-shield-35-hmi-display-w-cap-touch-for-arduino)** - Basic hookup guide for the Sunflower Shield.
 
 License Information
 -------------------
